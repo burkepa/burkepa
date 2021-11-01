@@ -1,9 +1,9 @@
-## Welcome to my Website
+## Personal Site for Economics PhD Candidate Patrick
 About Me  ![Image](src)
 ### CV - Link [Link](url) 
 ## Research
-### Job Market Paper - [Link](url) 
-### Matching Function Estimation -
+### Job Market Paper - Taylor Determinacy and Labor Supply - [Link](url) 
+### Work in Progress - Matching Function Estimation - [Link](url) 
 
 
 
