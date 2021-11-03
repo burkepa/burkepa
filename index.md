@@ -1,9 +1,11 @@
-## Personal Site for Economics PhD Candidate Patrick
+## Personal Site for MSU Economics PhD Candidate Patrick
 About Me  ![Image](src)
-### CV - Link [Link](url) 
+Hello! I'm a PhD Candidate at Michigan State University
+### CV - [Link](https://github.com/burkepa/CV/blob/a055b772c778979ae4fb4a76ca539379e632058f/temporary-shortcv.pdf) 
+
 ## Research
-### Job Market Paper - Taylor Determinacy and Labor Supply - [Link](url) 
-### Work in Progress - Matching Function Estimation - [Link](url) 
+### Job Market Paper - Taylor Determinacy and Labor Supply
+### Work in Progress - Matching Function Estimation
 
 
 
