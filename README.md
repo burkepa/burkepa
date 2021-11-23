@@ -1,7 +1,6 @@
-# Personal Site for Patrick Burke
 ![Image](./docs/profilepic.JPG)
 ## About Me
-Hello! I'm a PhD Candidate at Michigan State University
+Hello! I'm a PhD Candidate at Michigan State University. I am on the job market this year.
 ### [CV](./docs/BurkePatrick-scv.pdf) 
 
 ## Research
