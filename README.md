@@ -6,4 +6,4 @@ Hello! I'm a PhD Candidate at Michigan State University
 
 ## Research
 ### Job Market Paper - [Taylor Determinacy and Labor Supply](./docs/lsupplydetS.pdf)
-### Work in Progress - Accounting for Measurement Error and Simultaniety in Aggregate Measures of Mismatch
+### Accounting for Measurement Error and Simultaniety in Aggregate Measures of Mismatch (Work in Progress)
