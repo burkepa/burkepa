@@ -1,4 +1,10 @@
-![Image](./docs/profilepic.JPG)
+
+<p align="center">
+  <img src=./docs/profilepic.JPG/>
+</p>
+
+
+
 ## About Me
 Hello, I'm Patrick!
 I'm a macro-labor economist on the 2023-2024 job market.
