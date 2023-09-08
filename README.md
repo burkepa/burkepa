@@ -8,4 +8,4 @@ I'm currently Visiting Assistant Professor at St. Lawrence University.
 
 ## Research
 ### Job Market Paper - [Taylor Determinacy and Labor Supply](./docs/lsupplydetS-2.pdf)
-### Measurement Error and Simultaniety in Aggregate Measures of Mismatch in Employment (Work in Progress)
+### Aggregate Mismatch in Employment After the Great Recession (Work in Progress)
