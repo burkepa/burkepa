@@ -1,4 +1,4 @@
-![Image](./docs/profilepic.JPG)
+![Image](./docs/profilepic.jpg)
 ## About Me
 Hello, I'm Patrick!
 I'm a macro-labor economist on the 2023-2024 job market.
